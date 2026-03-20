@@ -76,26 +76,9 @@ Highest percentage of rich people in country: 41.9%
 Top occupations in India: Prof-specialty
 ```
 
-## Project structure
-
-```
-.
-├── demographic_data_analyzer.py   # Core analysis logic
-├── main.py                        # Runner / entry point
-└── README.md
-```
 
 ## Built with
 
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
 
-## Data source
-
-Dua, D. and Graff, C. (2019).
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
-University of California, School of Information and Computer Science.
-
-## License
-
-MIT
